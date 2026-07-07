@@ -1,0 +1,5 @@
+var centerName = "Better Bytes Academy"
+let isLovePlaywright = true; //false
+
+console.log (centerName);
+console.log(isLovePlaywright);
