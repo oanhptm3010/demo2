@@ -1,7 +1,7 @@
 const age = 18;
 console.log(age);
 
-const myTemplate = "My age is:${age}";
+const myTemplate = `My age is:${age}`;
 console.log(myTemplate);
 
 const isActive = true; //giá trị đúng
